@@ -14,7 +14,7 @@ I enjoy building projects that sit somewhere between:
 - experimental
 - slightly insane
 
-I've participated in multiple hackathons and became a **🏆 e-Yantra 2025-26 National Finalist at IIT Bombay**.
+I've participated in multiple hackathons and became a **🏆 e-Yantra 2025-26 National Winner at IIT Bombay**.
 
 ---
 
